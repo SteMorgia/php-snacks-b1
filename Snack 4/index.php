@@ -25,6 +25,8 @@
             var_dump($newArray);
         }
 
+        getArrayOfNumbers(1, 100, 15);
+
     ?>
 </body>
 </html>
